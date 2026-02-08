@@ -6,7 +6,7 @@ from agno.tools.duckduckgo import DuckDuckGoTools
 
 
 # Set your API Key (Replace with your actual key)
-GOOGLE_API_KEY = "AIzaSyBEnWTjx0Vp0SnhEAUTaDvv033VbSEniAA"
+GOOGLE_API_KEY = ""
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 # Ensure API Key is provided
