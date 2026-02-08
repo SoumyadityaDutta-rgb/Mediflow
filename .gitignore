@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Next.js
+.next/
+out/
+build/
+dist/
+node_modules/
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# IDE settings
+.vscode/
+.idea/
+
+# Misc
+*.pptx
+Miniparojcetrevie2ppt.pptx
