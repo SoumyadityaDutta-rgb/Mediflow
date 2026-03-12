@@ -1,4 +1,4 @@
-# Mediflow - Multimodal Zero-Trust AI Healthcare Assistant
+# Mediflow - Multimodal AI Healthcare Assistant
 
 **Mediflow** is an advanced edge-to-cloud Artificial Intelligence healthcare assistant designed to bridge the gap between patient data and clinical intelligence without compromising data privacy. Built upon a modern tech stack (FastAPI, React/Next.js, LangGraph), the project fuses four major domains of modern Data Science and Machine Learning to produce verifiable, explainable medical diagnostics.
 
@@ -351,3 +351,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Built with ❤️ for accessible, empathetic, and effective healthcare support.**
 
 *Last Updated: March 2026*
+
